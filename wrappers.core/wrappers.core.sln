@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wrappers.core", "wrappers.core\wrappers.core.csproj", "{AFE253D4-79E2-4C37-AEA0-6E8BEF7E9B8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE253D4-79E2-4C37-AEA0-6E8BEF7E9B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE253D4-79E2-4C37-AEA0-6E8BEF7E9B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE253D4-79E2-4C37-AEA0-6E8BEF7E9B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE253D4-79E2-4C37-AEA0-6E8BEF7E9B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94CCBA96-FAB7-4693-9901-B65992CBCB00}
+	EndGlobalSection
+EndGlobal
